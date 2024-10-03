@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlaces favoritos</title>
+</head>
+<body>
+    <h1>Enlaces Favoritos</h1>
+    <hr>
+    <img src="Fotos/como-conseguir-enlaces-para-tu-web-3.jpg">
+    <ul>
+        <li><a href="buscadores.html">Buscadores</a></li>
+        <li><a href="RedesSociales.html">Redes Sociales</a></li>
+        <li><a href="ComercioEléctrónico/Tiendas.html">Tienda Online</a></li>
+    </ul>
+</body>
+</html>
